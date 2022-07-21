@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 File Name is 'B'..
+=======
+File Name is 'B',
+>>>>>>> working
 BB
